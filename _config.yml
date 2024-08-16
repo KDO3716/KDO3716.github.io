@@ -21,20 +21,21 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: amit.d.kdo37162@naver.com
+  email: kdo37162@naver.com
   facebook:
   flickr:
-  github: amitmerchant1990/reverie
+  github: KDO3716
   instagram:
   linkedin: 
   pinterest:
   rss: rss
-  twitter: amit_merchant
+  twitter:
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
   mastodon: # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
+  naver: kdo37162
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
